@@ -1,0 +1,81 @@
+data/dataset\archive\Alexandrite\alexandrite_17.jpg	0
+data/dataset\archive\Alexandrite\alexandrite_26.jpg	0
+data/dataset\archive\Alexandrite\alexandrite_35.jpg	0
+data/dataset\archive\Almandine\almandine_1.jpg	1
+data/dataset\archive\Almandine\almandine_2.jpg	1
+data/dataset\archive\Almandine\almandine_30.jpg	1
+data/dataset\archive\Benitoite\benitoite_0.jpg	2
+data/dataset\archive\Benitoite\benitoite_19.jpg	2
+data/dataset\archive\Benitoite\benitoite_29.jpg	2
+data/dataset\archive\Benitoite\benitoite_8.jpg	2
+data/dataset\archive\Beryl Golden\beryl golden_17.jpg	3
+data/dataset\archive\Beryl Golden\beryl golden_26.jpg	3
+data/dataset\archive\Beryl Golden\beryl golden_36.jpg	3
+data/dataset\archive\Carnelian\carnelian_11.jpg	4
+data/dataset\archive\Carnelian\carnelian_21.jpg	4
+data/dataset\archive\Carnelian\carnelian_32.jpg	4
+data/dataset\archive\Cats Eye\cats eye_0.jpg	5
+data/dataset\archive\Cats Eye\cats eye_19.jpg	5
+data/dataset\archive\Cats Eye\cats eye_29.jpg	5
+data/dataset\archive\Cats Eye\cats eye_8.jpg	5
+data/dataset\archive\Danburite\danburite_17.jpg	6
+data/dataset\archive\Danburite\danburite_27.jpg	6
+data/dataset\archive\Danburite\danburite_6.jpg	6
+data/dataset\archive\Diamond\diamond_15.jpg	7
+data/dataset\archive\Diamond\diamond_25.jpg	7
+data/dataset\archive\Diamond\diamond_5.jpg	7
+data/dataset\archive\Emerald\emerald_14.jpg	8
+data/dataset\archive\Emerald\emerald_24.jpg	8
+data/dataset\archive\Emerald\emerald_34.jpg	8
+data/dataset\archive\Fluorite\fluorite_0.jpg	9
+data/dataset\archive\Fluorite\fluorite_19.jpg	9
+data/dataset\archive\Fluorite\fluorite_29.jpg	9
+data/dataset\archive\Fluorite\fluorite_7.jpg	9
+data/dataset\archive\Garnet Red\garnet red_16.jpg	10
+data/dataset\archive\Garnet Red\garnet red_25.jpg	10
+data/dataset\archive\Garnet Red\garnet red_35.jpg	10
+data/dataset\archive\Hessonite\hessonite_10.jpg	11
+data/dataset\archive\Hessonite\hessonite_21.jpg	11
+data/dataset\archive\Hessonite\hessonite_32.jpg	11
+data/dataset\archive\Iolite\iolite_10.jpg	12
+data/dataset\archive\Iolite\iolite_20.jpg	12
+data/dataset\archive\Iolite\iolite_31.jpg	12
+data/dataset\archive\Jade\jade_0.jpg	13
+data/dataset\archive\Jade\jade_18.jpg	13
+data/dataset\archive\Jade\jade_28.jpg	13
+data/dataset\archive\Kunzite\kunzite_10.jpg	14
+data/dataset\archive\Kunzite\kunzite_20.jpg	14
+data/dataset\archive\Kunzite\kunzite_31.jpg	14
+data/dataset\archive\Labradorite\labradorite_0.jpg	15
+data/dataset\archive\Labradorite\labradorite_18.jpg	15
+data/dataset\archive\Labradorite\labradorite_27.jpg	15
+data/dataset\archive\Labradorite\labradorite_37.jpg	15
+data/dataset\archive\Malachite\malachite_0.jpg	16
+data/dataset\archive\Malachite\malachite_18.jpg	16
+data/dataset\archive\Malachite\malachite_28.jpg	16
+data/dataset\archive\Onyx Black\onyx black_10.jpg	17
+data/dataset\archive\Onyx Black\onyx black_2.jpg	17
+data/dataset\archive\Onyx Black\onyx black_30.jpg	17
+data/dataset\archive\Pearl\pearl_12.jpg	18
+data/dataset\archive\Pearl\pearl_22.jpg	18
+data/dataset\archive\Pearl\pearl_33.jpg	18
+data/dataset\archive\Quartz Beer\quartz beer_1.jpg	19
+data/dataset\archive\Quartz Beer\quartz beer_2.jpg	19
+data/dataset\archive\Quartz Beer\quartz beer_29.jpg	19
+data/dataset\archive\Quartz Beer\quartz beer_4.jpg	19
+data/dataset\archive\Rhodochrosite\rhodochrosite_14.jpg	20
+data/dataset\archive\Rhodochrosite\rhodochrosite_24.jpg	20
+data/dataset\archive\Rhodochrosite\rhodochrosite_7.jpg	20
+data/dataset\archive\Sapphire Blue\sapphire blue_15.jpg	21
+data/dataset\archive\Sapphire Blue\sapphire blue_25.jpg	21
+data/dataset\archive\Sapphire Blue\sapphire blue_36.jpg	21
+data/dataset\archive\Tanzanite\tanzanite_11.jpg	22
+data/dataset\archive\Tanzanite\tanzanite_20.jpg	22
+data/dataset\archive\Tanzanite\tanzanite_30.jpg	22
+data/dataset\archive\Tanzanite\tanzanite_5.jpg	22
+data/dataset\archive\Variscite\variscite_15.jpg	23
+data/dataset\archive\Variscite\variscite_26.jpg	23
+data/dataset\archive\Variscite\variscite_7.jpg	23
+data/dataset\archive\Zircon\zircon_15.jpg	24
+data/dataset\archive\Zircon\zircon_25.jpg	24
+data/dataset\archive\Zircon\zircon_36.jpg	24

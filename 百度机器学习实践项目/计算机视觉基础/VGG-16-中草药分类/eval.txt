@@ -1,0 +1,90 @@
+dataset\Chinese Medicine\baihe\b (109).jpg	0
+dataset\Chinese Medicine\baihe\b (118).jpg	0
+dataset\Chinese Medicine\baihe\b (128).jpg	0
+dataset\Chinese Medicine\baihe\b (137).jpg	0
+dataset\Chinese Medicine\baihe\b (147).jpg	0
+dataset\Chinese Medicine\baihe\b (157).jpg	0
+dataset\Chinese Medicine\baihe\b (17).jpg	0
+dataset\Chinese Medicine\baihe\b (18).jpg	0
+dataset\Chinese Medicine\baihe\b (19).jpg	0
+dataset\Chinese Medicine\baihe\b (20).jpg	0
+dataset\Chinese Medicine\baihe\b (3).jpg	0
+dataset\Chinese Medicine\baihe\b (4).jpg	0
+dataset\Chinese Medicine\baihe\b (5).jpg	0
+dataset\Chinese Medicine\baihe\b (6).jpg	0
+dataset\Chinese Medicine\baihe\b (70).jpg	0
+dataset\Chinese Medicine\baihe\b (8).jpg	0
+dataset\Chinese Medicine\baihe\b (89).jpg	0
+dataset\Chinese Medicine\baihe\b (99).jpg	0
+dataset\Chinese Medicine\dangshen\dangshen_107.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_117.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_126.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_137.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_148.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_159.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_169.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_179.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_190.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_20.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_209.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_220.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_38.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_50.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_6.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_7.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_8.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_89.jpg	1
+dataset\Chinese Medicine\dangshen\dangshen_99.jpg	1
+dataset\Chinese Medicine\gouqi\cgcjyfyj (15).jpg	2
+dataset\Chinese Medicine\gouqi\cgcjyfyj (26).jpg	2
+dataset\Chinese Medicine\gouqi\cgcjyfyj (36).jpg	2
+dataset\Chinese Medicine\gouqi\cgcjyfyj (47).jpg	2
+dataset\Chinese Medicine\gouqi\cgcjyfyj (56).jpg	2
+dataset\Chinese Medicine\gouqi\cgcjyfyj (65).jpg	2
+dataset\Chinese Medicine\gouqi\cgcjyfyj (74).jpg	2
+dataset\Chinese Medicine\gouqi\cgcjyfyj (85).jpg	2
+dataset\Chinese Medicine\gouqi\u=1010307075,2293841367&fm=26&gp=0.jpg	2
+dataset\Chinese Medicine\gouqi\u=1542293573,1453064721&fm=26&gp=0.jpg	2
+dataset\Chinese Medicine\gouqi\u=1972885722,2154170267&fm=26&gp=0.jpg	2
+dataset\Chinese Medicine\gouqi\u=231865770,2382150339&fm=26&gp=0.jpg	2
+dataset\Chinese Medicine\gouqi\u=2679799303,1342393000&fm=26&gp=0.jpg	2
+dataset\Chinese Medicine\gouqi\u=3178217813,3392507695&fm=26&gp=0.jpg	2
+dataset\Chinese Medicine\gouqi\u=3567417622,599026639&fm=26&gp=0.jpg	2
+dataset\Chinese Medicine\gouqi\u=3978700999,614140464&fm=26&gp=0.jpg	2
+dataset\Chinese Medicine\gouqi\u=4245891572,452581011&fm=26&gp=0.jpg	2
+dataset\Chinese Medicine\gouqi\u=845823373,2969664997&fm=26&gp=0.jpg	2
+dataset\Chinese Medicine\huaihua\huaihua_102.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_111.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_120.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_13.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_139.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_148.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_157.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_166.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_175.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_22.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_42.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_51.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_60.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_7.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_79.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_88.jpg	3
+dataset\Chinese Medicine\huaihua\huaihua_97.jpg	3
+dataset\Chinese Medicine\jinyinhua\jyh_105.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_114.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_123.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_132.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_141.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_150.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_16.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_169.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_178.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_24.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_33.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_42.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_51.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_60.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_7.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_79.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_88.jpg	4
+dataset\Chinese Medicine\jinyinhua\jyh_97.jpg	4
