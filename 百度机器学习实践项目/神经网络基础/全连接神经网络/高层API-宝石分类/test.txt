@@ -1,0 +1,363 @@
+data/dataset\test\Alexandrite\alexandrite_18.jpg	0
+data/dataset\test\Alexandrite\alexandrite_28.jpg	0
+data/dataset\test\Alexandrite\alexandrite_3.jpg	0
+data/dataset\test\Alexandrite\alexandrite_6.jpg	0
+data/dataset\test\Almandine\almandine_18.jpg	1
+data/dataset\test\Almandine\almandine_28.jpg	1
+data/dataset\test\Almandine\almandine_3.jpg	1
+data/dataset\test\Almandine\almandine_9.jpg	1
+data/dataset\test\Amazonite\amazonite_18.jpg	2
+data/dataset\test\Amazonite\amazonite_28.jpg	2
+data/dataset\test\Amazonite\amazonite_3.jpg	2
+data/dataset\test\Amazonite\amazonite_8.jpg	2
+data/dataset\test\Amber\amber_18.jpg	3
+data/dataset\test\Amber\amber_28.jpg	3
+data/dataset\test\Amber\amber_3.jpg	3
+data/dataset\test\Amber\amber_9.jpg	3
+data/dataset\test\Amethyst\amethyst_18.jpg	4
+data/dataset\test\Amethyst\amethyst_3.jpg	4
+data/dataset\test\Amethyst\amethyst_5.jpg	4
+data/dataset\test\Amethyst\amethyst_7.jpg	4
+data/dataset\test\Ametrine\ametrine_18.jpg	5
+data/dataset\test\Ametrine\ametrine_3.jpg	5
+data/dataset\test\Ametrine\ametrine_5.jpg	5
+data/dataset\test\Ametrine\ametrine_7.jpg	5
+data/dataset\test\Andalusite\andalusite_18.jpg	6
+data/dataset\test\Andalusite\andalusite_28.jpg	6
+data/dataset\test\Andalusite\andalusite_3.jpg	6
+data/dataset\test\Andalusite\andalusite_8.jpg	6
+data/dataset\test\Andradite\andradite_18.jpg	7
+data/dataset\test\Andradite\andradite_28.jpg	7
+data/dataset\test\Andradite\andradite_3.jpg	7
+data/dataset\test\Andradite\andradite_9.jpg	7
+data/dataset\test\Aquamarine\aquamarine_18.jpg	8
+data/dataset\test\Aquamarine\aquamarine_3.jpg	8
+data/dataset\test\Aquamarine\aquamarine_4.jpg	8
+data/dataset\test\Aquamarine\aquamarine_5.jpg	8
+data/dataset\test\Aquamarine\aquamarine_8.jpg	8
+data/dataset\test\Aventurine Green\aventurine green_3.jpg	9
+data/dataset\test\Aventurine Green\aventurine green_4.jpg	9
+data/dataset\test\Aventurine Green\aventurine green_41.jpg	9
+data/dataset\test\Aventurine Green\aventurine green_44.jpg	9
+data/dataset\test\Aventurine Green\aventurine green_5.jpg	9
+data/dataset\test\Aventurine Yellow\aventurine yellow_18.jpg	10
+data/dataset\test\Aventurine Yellow\aventurine yellow_28.jpg	10
+data/dataset\test\Aventurine Yellow\aventurine yellow_3.jpg	10
+data/dataset\test\Aventurine Yellow\aventurine yellow_6.jpg	10
+data/dataset\test\Benitoite\benitoite_18.jpg	11
+data/dataset\test\Benitoite\benitoite_28.jpg	11
+data/dataset\test\Benitoite\benitoite_3.jpg	11
+data/dataset\test\Benitoite\benitoite_9.jpg	11
+data/dataset\test\Beryl Golden\beryl golden_3.jpg	12
+data/dataset\test\Beryl Golden\beryl golden_4.jpg	12
+data/dataset\test\Beryl Golden\beryl golden_6.jpg	12
+data/dataset\test\Beryl Golden\beryl golden_9.jpg	12
+data/dataset\test\Bixbite\bixbite_3.jpg	13
+data/dataset\test\Bixbite\bixbite_4.jpg	13
+data/dataset\test\Bixbite\bixbite_6.jpg	13
+data/dataset\test\Bixbite\bixbite_9.jpg	13
+data/dataset\test\Bloodstone\bloodstone_18.jpg	14
+data/dataset\test\Bloodstone\bloodstone_3.jpg	14
+data/dataset\test\Bloodstone\bloodstone_5.jpg	14
+data/dataset\test\Bloodstone\bloodstone_7.jpg	14
+data/dataset\test\Blue Lace Agate\blue lace agate_3.jpg	15
+data/dataset\test\Blue Lace Agate\blue lace agate_4.jpg	15
+data/dataset\test\Blue Lace Agate\blue lace agate_41.jpg	15
+data/dataset\test\Blue Lace Agate\blue lace agate_5.jpg	15
+data/dataset\test\Blue Lace Agate\blue lace agate_7.jpg	15
+data/dataset\test\Carnelian\carnelian_18.jpg	16
+data/dataset\test\Carnelian\carnelian_28.jpg	16
+data/dataset\test\Carnelian\carnelian_3.jpg	16
+data/dataset\test\Carnelian\carnelian_7.jpg	16
+data/dataset\test\Cats Eye\cats eye_18.jpg	17
+data/dataset\test\Cats Eye\cats eye_28.jpg	17
+data/dataset\test\Cats Eye\cats eye_3.jpg	17
+data/dataset\test\Cats Eye\cats eye_9.jpg	17
+data/dataset\test\Chalcedony\chalcedony_18.jpg	18
+data/dataset\test\Chalcedony\chalcedony_2.jpg	18
+data/dataset\test\Chalcedony\chalcedony_28.jpg	18
+data/dataset\test\Chalcedony\chalcedony_3.jpg	18
+data/dataset\test\Chalcedony Blue\chalcedony blue_18.jpg	19
+data/dataset\test\Chalcedony Blue\chalcedony blue_2.jpg	19
+data/dataset\test\Chalcedony Blue\chalcedony blue_28.jpg	19
+data/dataset\test\Chalcedony Blue\chalcedony blue_3.jpg	19
+data/dataset\test\Chrome Diopside\chrome diopside_18.jpg	20
+data/dataset\test\Chrome Diopside\chrome diopside_28.jpg	20
+data/dataset\test\Chrome Diopside\chrome diopside_3.jpg	20
+data/dataset\test\Chrome Diopside\chrome diopside_8.jpg	20
+data/dataset\test\Chrysoberyl\chrysoberyl_18.jpg	21
+data/dataset\test\Chrysoberyl\chrysoberyl_28.jpg	21
+data/dataset\test\Chrysoberyl\chrysoberyl_3.jpg	21
+data/dataset\test\Chrysoberyl\chrysoberyl_9.jpg	21
+data/dataset\test\Chrysocolla\chrysocolla_3.jpg	22
+data/dataset\test\Chrysocolla\chrysocolla_4.jpg	22
+data/dataset\test\Chrysocolla\chrysocolla_6.jpg	22
+data/dataset\test\Chrysocolla\chrysocolla_9.jpg	22
+data/dataset\test\Chrysoprase\chrysoprase_18.jpg	23
+data/dataset\test\Chrysoprase\chrysoprase_2.jpg	23
+data/dataset\test\Chrysoprase\chrysoprase_28.jpg	23
+data/dataset\test\Chrysoprase\chrysoprase_3.jpg	23
+data/dataset\test\Citrine\citrine_3.jpg	24
+data/dataset\test\Citrine\citrine_4.jpg	24
+data/dataset\test\Citrine\citrine_41.jpg	24
+data/dataset\test\Citrine\citrine_42.jpg	24
+data/dataset\test\Citrine\citrine_44.jpg	24
+data/dataset\test\Coral\coral_18.jpg	25
+data/dataset\test\Coral\coral_28.jpg	25
+data/dataset\test\Coral\coral_3.jpg	25
+data/dataset\test\Coral\coral_9.jpg	25
+data/dataset\test\Danburite\danburite_18.jpg	26
+data/dataset\test\Danburite\danburite_28.jpg	26
+data/dataset\test\Danburite\danburite_3.jpg	26
+data/dataset\test\Danburite\danburite_8.jpg	26
+data/dataset\test\Diamond\diamond_18.jpg	27
+data/dataset\test\Diamond\diamond_28.jpg	27
+data/dataset\test\Diamond\diamond_3.jpg	27
+data/dataset\test\Diamond\diamond_9.jpg	27
+data/dataset\test\Diaspore\diaspore_18.jpg	28
+data/dataset\test\Diaspore\diaspore_28.jpg	28
+data/dataset\test\Diaspore\diaspore_3.jpg	28
+data/dataset\test\Diaspore\diaspore_9.jpg	28
+data/dataset\test\Dumortierite\dumortierite_18.jpg	29
+data/dataset\test\Dumortierite\dumortierite_28.jpg	29
+data/dataset\test\Dumortierite\dumortierite_3.jpg	29
+data/dataset\test\Dumortierite\dumortierite_8.jpg	29
+data/dataset\test\Emerald\emerald_18.jpg	30
+data/dataset\test\Emerald\emerald_3.jpg	30
+data/dataset\test\Emerald\emerald_4.jpg	30
+data/dataset\test\Emerald\emerald_5.jpg	30
+data/dataset\test\Emerald\emerald_8.jpg	30
+data/dataset\test\Fluorite\fluorite_18.jpg	31
+data/dataset\test\Fluorite\fluorite_28.jpg	31
+data/dataset\test\Fluorite\fluorite_3.jpg	31
+data/dataset\test\Fluorite\fluorite_8.jpg	31
+data/dataset\test\Garnet Red\garnet red_3.jpg	32
+data/dataset\test\Garnet Red\garnet red_4.jpg	32
+data/dataset\test\Garnet Red\garnet red_6.jpg	32
+data/dataset\test\Garnet Red\garnet red_9.jpg	32
+data/dataset\test\Goshenite\goshenite_18.jpg	33
+data/dataset\test\Goshenite\goshenite_28.jpg	33
+data/dataset\test\Goshenite\goshenite_3.jpg	33
+data/dataset\test\Goshenite\goshenite_9.jpg	33
+data/dataset\test\Grossular\grossular_18.jpg	34
+data/dataset\test\Grossular\grossular_3.jpg	34
+data/dataset\test\Grossular\grossular_30.jpg	34
+data/dataset\test\Grossular\grossular_32.jpg	34
+data/dataset\test\Hessonite\hessonite_18.jpg	35
+data/dataset\test\Hessonite\hessonite_2.jpg	35
+data/dataset\test\Hessonite\hessonite_28.jpg	35
+data/dataset\test\Hessonite\hessonite_3.jpg	35
+data/dataset\test\Hiddenite\hiddenite_18.jpg	36
+data/dataset\test\Hiddenite\hiddenite_3.jpg	36
+data/dataset\test\Hiddenite\hiddenite_30.jpg	36
+data/dataset\test\Hiddenite\hiddenite_32.jpg	36
+data/dataset\test\Iolite\iolite_18.jpg	37
+data/dataset\test\Iolite\iolite_28.jpg	37
+data/dataset\test\Iolite\iolite_3.jpg	37
+data/dataset\test\Iolite\iolite_8.jpg	37
+data/dataset\test\Jade\jade_25.jpg	38
+data/dataset\test\Jade\jade_3.jpg	38
+data/dataset\test\Jade\jade_8.jpg	38
+data/dataset\test\Jade\jade_9.jpg	38
+data/dataset\test\Jasper\jasper_18.jpg	39
+data/dataset\test\Jasper\jasper_3.jpg	39
+data/dataset\test\Jasper\jasper_4.jpg	39
+data/dataset\test\Jasper\jasper_5.jpg	39
+data/dataset\test\Jasper\jasper_8.jpg	39
+data/dataset\test\Kunzite\kunzite_18.jpg	40
+data/dataset\test\Kunzite\kunzite_28.jpg	40
+data/dataset\test\Kunzite\kunzite_3.jpg	40
+data/dataset\test\Kunzite\kunzite_8.jpg	40
+data/dataset\test\Kyanite\kyanite_18.jpg	41
+data/dataset\test\Kyanite\kyanite_3.jpg	41
+data/dataset\test\Kyanite\kyanite_30.jpg	41
+data/dataset\test\Kyanite\kyanite_32.jpg	41
+data/dataset\test\Labradorite\labradorite_3.jpg	42
+data/dataset\test\Labradorite\labradorite_4.jpg	42
+data/dataset\test\Labradorite\labradorite_41.jpg	42
+data/dataset\test\Labradorite\labradorite_42.jpg	42
+data/dataset\test\Labradorite\labradorite_44.jpg	42
+data/dataset\test\Lapis Lazuli\lapis lazuli_18.jpg	43
+data/dataset\test\Lapis Lazuli\lapis lazuli_28.jpg	43
+data/dataset\test\Lapis Lazuli\lapis lazuli_3.jpg	43
+data/dataset\test\Lapis Lazuli\lapis lazuli_9.jpg	43
+data/dataset\test\Larimar\larimar_24.jpg	44
+data/dataset\test\Larimar\larimar_26.jpg	44
+data/dataset\test\Larimar\larimar_29.jpg	44
+data/dataset\test\Larimar\larimar_8.jpg	44
+data/dataset\test\Malachite\malachite_25.jpg	45
+data/dataset\test\Malachite\malachite_3.jpg	45
+data/dataset\test\Malachite\malachite_8.jpg	45
+data/dataset\test\Malachite\malachite_9.jpg	45
+data/dataset\test\Moonstone\moonstone_18.jpg	46
+data/dataset\test\Moonstone\moonstone_3.jpg	46
+data/dataset\test\Moonstone\moonstone_4.jpg	46
+data/dataset\test\Moonstone\moonstone_5.jpg	46
+data/dataset\test\Moonstone\moonstone_8.jpg	46
+data/dataset\test\Morganite\morganite_18.jpg	47
+data/dataset\test\Morganite\morganite_28.jpg	47
+data/dataset\test\Morganite\morganite_3.jpg	47
+data/dataset\test\Morganite\morganite_9.jpg	47
+data/dataset\test\Onyx Black\onyx black_25.jpg	48
+data/dataset\test\Onyx Black\onyx black_3.jpg	48
+data/dataset\test\Onyx Black\onyx black_8.jpg	48
+data/dataset\test\Onyx Black\onyx black_9.jpg	48
+data/dataset\test\Onyx Green\onyx green_25.jpg	49
+data/dataset\test\Onyx Green\onyx green_3.jpg	49
+data/dataset\test\Onyx Green\onyx green_8.jpg	49
+data/dataset\test\Onyx Green\onyx green_9.jpg	49
+data/dataset\test\Onyx Red\onyx red_25.jpg	50
+data/dataset\test\Onyx Red\onyx red_3.jpg	50
+data/dataset\test\Onyx Red\onyx red_8.jpg	50
+data/dataset\test\Onyx Red\onyx red_9.jpg	50
+data/dataset\test\Opal\opal_18.jpg	51
+data/dataset\test\Opal\opal_3.jpg	51
+data/dataset\test\Opal\opal_4.jpg	51
+data/dataset\test\Opal\opal_5.jpg	51
+data/dataset\test\Opal\opal_8.jpg	51
+data/dataset\test\Pearl\pearl_18.jpg	52
+data/dataset\test\Pearl\pearl_28.jpg	52
+data/dataset\test\Pearl\pearl_3.jpg	52
+data/dataset\test\Pearl\pearl_7.jpg	52
+data/dataset\test\Peridot\peridot_3.jpg	53
+data/dataset\test\Peridot\peridot_4.jpg	53
+data/dataset\test\Peridot\peridot_41.jpg	53
+data/dataset\test\Peridot\peridot_42.jpg	53
+data/dataset\test\Peridot\peridot_5.jpg	53
+data/dataset\test\Prehnite\prehnite_3.jpg	54
+data/dataset\test\Prehnite\prehnite_4.jpg	54
+data/dataset\test\Prehnite\prehnite_41.jpg	54
+data/dataset\test\Prehnite\prehnite_5.jpg	54
+data/dataset\test\Prehnite\prehnite_7.jpg	54
+data/dataset\test\Pyrite\pyrite_3.jpg	55
+data/dataset\test\Pyrite\pyrite_4.jpg	55
+data/dataset\test\Pyrite\pyrite_41.jpg	55
+data/dataset\test\Pyrite\pyrite_44.jpg	55
+data/dataset\test\Pyrite\pyrite_7.jpg	55
+data/dataset\test\Pyrope\pyrope_18.jpg	56
+data/dataset\test\Pyrope\pyrope_28.jpg	56
+data/dataset\test\Pyrope\pyrope_3.jpg	56
+data/dataset\test\Pyrope\pyrope_9.jpg	56
+data/dataset\test\Quartz Beer\quartz beer_18.jpg	57
+data/dataset\test\Quartz Beer\quartz beer_3.jpg	57
+data/dataset\test\Quartz Beer\quartz beer_5.jpg	57
+data/dataset\test\Quartz Beer\quartz beer_7.jpg	57
+data/dataset\test\Quartz Lemon\quartz lemon_18.jpg	58
+data/dataset\test\Quartz Lemon\quartz lemon_28.jpg	58
+data/dataset\test\Quartz Lemon\quartz lemon_3.jpg	58
+data/dataset\test\Quartz Lemon\quartz lemon_7.jpg	58
+data/dataset\test\Quartz Rose\quartz rose_18.jpg	59
+data/dataset\test\Quartz Rose\quartz rose_3.jpg	59
+data/dataset\test\Quartz Rose\quartz rose_5.jpg	59
+data/dataset\test\Quartz Rose\quartz rose_7.jpg	59
+data/dataset\test\Quartz Rutilated\quartz rutilated_3.jpg	60
+data/dataset\test\Quartz Rutilated\quartz rutilated_4.jpg	60
+data/dataset\test\Quartz Rutilated\quartz rutilated_41.jpg	60
+data/dataset\test\Quartz Rutilated\quartz rutilated_42.jpg	60
+data/dataset\test\Quartz Rutilated\quartz rutilated_6.jpg	60
+data/dataset\test\Quartz Smoky\quartz smoky_18.jpg	61
+data/dataset\test\Quartz Smoky\quartz smoky_2.jpg	61
+data/dataset\test\Quartz Smoky\quartz smoky_28.jpg	61
+data/dataset\test\Quartz Smoky\quartz smoky_3.jpg	61
+data/dataset\test\Rhodochrosite\rhodochrosite_18.jpg	62
+data/dataset\test\Rhodochrosite\rhodochrosite_3.jpg	62
+data/dataset\test\Rhodochrosite\rhodochrosite_30.jpg	62
+data/dataset\test\Rhodochrosite\rhodochrosite_32.jpg	62
+data/dataset\test\Rhodolite\rhodolite_3.jpg	63
+data/dataset\test\Rhodolite\rhodolite_4.jpg	63
+data/dataset\test\Rhodolite\rhodolite_6.jpg	63
+data/dataset\test\Rhodolite\rhodolite_9.jpg	63
+data/dataset\test\Rhodonite\rhodonite_18.jpg	64
+data/dataset\test\Rhodonite\rhodonite_28.jpg	64
+data/dataset\test\Rhodonite\rhodonite_3.jpg	64
+data/dataset\test\Rhodonite\rhodonite_8.jpg	64
+data/dataset\test\Ruby\ruby_18.jpg	65
+data/dataset\test\Ruby\ruby_3.jpg	65
+data/dataset\test\Ruby\ruby_5.jpg	65
+data/dataset\test\Ruby\ruby_7.jpg	65
+data/dataset\test\Sapphire Blue\sapphire blue_18.jpg	66
+data/dataset\test\Sapphire Blue\sapphire blue_28.jpg	66
+data/dataset\test\Sapphire Blue\sapphire blue_3.jpg	66
+data/dataset\test\Sapphire Blue\sapphire blue_6.jpg	66
+data/dataset\test\Sapphire Pink\sapphire pink_18.jpg	67
+data/dataset\test\Sapphire Pink\sapphire pink_2.jpg	67
+data/dataset\test\Sapphire Pink\sapphire pink_28.jpg	67
+data/dataset\test\Sapphire Pink\sapphire pink_3.jpg	67
+data/dataset\test\Sapphire Purple\sapphire purple_18.jpg	68
+data/dataset\test\Sapphire Purple\sapphire purple_28.jpg	68
+data/dataset\test\Sapphire Purple\sapphire purple_3.jpg	68
+data/dataset\test\Sapphire Purple\sapphire purple_9.jpg	68
+data/dataset\test\Sapphire Yellow\sapphire yellow_18.jpg	69
+data/dataset\test\Sapphire Yellow\sapphire yellow_28.jpg	69
+data/dataset\test\Sapphire Yellow\sapphire yellow_3.jpg	69
+data/dataset\test\Sapphire Yellow\sapphire yellow_9.jpg	69
+data/dataset\test\Scapolite\scapolite_25.jpg	70
+data/dataset\test\Scapolite\scapolite_3.jpg	70
+data/dataset\test\Scapolite\scapolite_8.jpg	70
+data/dataset\test\Scapolite\scapolite_9.jpg	70
+data/dataset\test\Serpentine\serpentine_18.jpg	71
+data/dataset\test\Serpentine\serpentine_2.jpg	71
+data/dataset\test\Serpentine\serpentine_28.jpg	71
+data/dataset\test\Serpentine\serpentine_3.jpg	71
+data/dataset\test\Sodalite\sodalite_18.jpg	72
+data/dataset\test\Sodalite\sodalite_3.jpg	72
+data/dataset\test\Sodalite\sodalite_5.jpg	72
+data/dataset\test\Sodalite\sodalite_7.jpg	72
+data/dataset\test\Spessartite\spessartite_18.jpg	73
+data/dataset\test\Spessartite\spessartite_2.jpg	73
+data/dataset\test\Spessartite\spessartite_28.jpg	73
+data/dataset\test\Spessartite\spessartite_3.jpg	73
+data/dataset\test\Sphene\sphene_18.jpg	74
+data/dataset\test\Sphene\sphene_2.jpg	74
+data/dataset\test\Sphene\sphene_28.jpg	74
+data/dataset\test\Sphene\sphene_3.jpg	74
+data/dataset\test\Spinel\spinel_25.jpg	75
+data/dataset\test\Spinel\spinel_3.jpg	75
+data/dataset\test\Spinel\spinel_8.jpg	75
+data/dataset\test\Spinel\spinel_9.jpg	75
+data/dataset\test\Spodumene\spodumene_18.jpg	76
+data/dataset\test\Spodumene\spodumene_3.jpg	76
+data/dataset\test\Spodumene\spodumene_5.jpg	76
+data/dataset\test\Spodumene\spodumene_7.jpg	76
+data/dataset\test\Sunstone\sunstone_18.jpg	77
+data/dataset\test\Sunstone\sunstone_3.jpg	77
+data/dataset\test\Sunstone\sunstone_30.jpg	77
+data/dataset\test\Sunstone\sunstone_32.jpg	77
+data/dataset\test\Tanzanite\tanzanite_3.jpg	78
+data/dataset\test\Tanzanite\tanzanite_4.jpg	78
+data/dataset\test\Tanzanite\tanzanite_6.jpg	78
+data/dataset\test\Tanzanite\tanzanite_9.jpg	78
+data/dataset\test\Tigers Eye\tigers eye_3.jpg	79
+data/dataset\test\Tigers Eye\tigers eye_4.jpg	79
+data/dataset\test\Tigers Eye\tigers eye_41.jpg	79
+data/dataset\test\Tigers Eye\tigers eye_44.jpg	79
+data/dataset\test\Tigers Eye\tigers eye_7.jpg	79
+data/dataset\test\Topaz\topaz_18.jpg	80
+data/dataset\test\Topaz\topaz_28.jpg	80
+data/dataset\test\Topaz\topaz_3.jpg	80
+data/dataset\test\Topaz\topaz_6.jpg	80
+data/dataset\test\Tourmaline\tourmaline_3.jpg	81
+data/dataset\test\Tourmaline\tourmaline_4.jpg	81
+data/dataset\test\Tourmaline\tourmaline_41.jpg	81
+data/dataset\test\Tourmaline\tourmaline_42.jpg	81
+data/dataset\test\Tourmaline\tourmaline_6.jpg	81
+data/dataset\test\Tsavorite\tsavorite_18.jpg	82
+data/dataset\test\Tsavorite\tsavorite_28.jpg	82
+data/dataset\test\Tsavorite\tsavorite_3.jpg	82
+data/dataset\test\Tsavorite\tsavorite_9.jpg	82
+data/dataset\test\Turquoise\turquoise_18.jpg	83
+data/dataset\test\Turquoise\turquoise_28.jpg	83
+data/dataset\test\Turquoise\turquoise_3.jpg	83
+data/dataset\test\Turquoise\turquoise_8.jpg	83
+data/dataset\test\Variscite\variscite_18.jpg	84
+data/dataset\test\Variscite\variscite_2.jpg	84
+data/dataset\test\Variscite\variscite_28.jpg	84
+data/dataset\test\Variscite\variscite_3.jpg	84
+data/dataset\test\Zircon\zircon_18.jpg	85
+data/dataset\test\Zircon\zircon_28.jpg	85
+data/dataset\test\Zircon\zircon_3.jpg	85
+data/dataset\test\Zircon\zircon_7.jpg	85
+data/dataset\test\Zoisite\zoisite_25.jpg	86
+data/dataset\test\Zoisite\zoisite_3.jpg	86
+data/dataset\test\Zoisite\zoisite_8.jpg	86
+data/dataset\test\Zoisite\zoisite_9.jpg	86
